@@ -1,5 +1,7 @@
 # Flume Interceptor: Enriched Event
 
+[![Build Status](https://travis-ci.com/ruiqiliu/flume-enrichment-interceptor-skeleton.svg?branch=master)](https://travis-ci.com/ruiqiliu/flume-enrichment-interceptor-skeleton)
+
 This project provides an interceptor to enrich event body with custom data. The implementation consist of:
 
 - EnrichedEventBody: represents enriched event body. The enriched event will have 2 attributes: extraData and message.
